@@ -8,7 +8,7 @@ characters and that you are given the “true” length of the array. (Note: Ple
 perform this operation in the same array provided and without any String
 methods).
 
-[Solution] (Questões/Questao1.c)
+[Solution](Questões/Questao1.c)
 
 2. Check words with jumbled letters:
 Our brain can read texts even if letters are jumbled, like the following sentence: “Yuo
@@ -19,14 +19,14 @@ partial-permutation only if:
 - If the word has more than 3 letters, up to 2/3 of the letters have changed
 place
 
-[Solution] (Questões/Questao2.c)
+[Solution](Questões/Questao2.c)
 
 3. Check words with typos:
 There are three types of typos that can be performed on strings: insert a character,
 remove a character, or replace a character. Given two strings, write a function to
 check if they are one typo (or zero typos) away.
 
-[Solution] (Questões/Questao3.c)
+[Solution](Questões/Questao3.c)
 
 4. [Android] Search on a list:
 Write an application with one activity that shows a list of items and a search box. The
@@ -40,7 +40,7 @@ an email thread (represented by a singly unsorted linked list of messages), writ
 function that removes duplicated messages from the list. (Note: You only have
 access to the head node of the linked list, not the entire list.)
 
-[Solution] (Questões/Questao5.java)
+[Solution](Questões/Questao5.java)
 
 6. [Android] Email processor service:
 Write an application with one service (no activities) that receive requests from other
@@ -55,4 +55,4 @@ Write a method that receives two singly linked lists and returns the intersectin
 node of the two lists (if exists). Note that the intersection is defined by reference, not
 value. (No need to change the previous answer).
 
-[Solution] (Questões/Questao7.java)
+[Solution](Questões/Questao7.java)
