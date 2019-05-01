@@ -2,11 +2,7 @@
 Algumas questões de programação. 
 
 1. Replacing characters in place:
-Given an array of characters, write a method to replace all the spaces with “&32”.
-You may assume that the array has sufficient slots at the end to hold the additional
-characters and that you are given the “true” length of the array. (Note: Please
-perform this operation in the same array provided and without any String
-methods).
+Given an array of characters, write a method to replace all the spaces with “&32”. You may assume that the array has sufficient slots at the end to hold the additional characters and that you are given the “true” length of the array. (Note: Please perform this operation in the same array provided and without any String methods).
 
 [Solution](Questões/Questao1.c)
 
