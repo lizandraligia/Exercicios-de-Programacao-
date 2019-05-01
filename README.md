@@ -1,5 +1,4 @@
 # Exercicios-de-Programacao-
-Algumas questões de programação. 
 
 ## 1. Replacing characters in place:
 
