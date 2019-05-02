@@ -5,6 +5,7 @@
 Given an array of characters, write a method to replace all the spaces with “&32”. You may assume that the array has sufficient slots at the end to hold the additional characters and that you are given the “true” length of the array. (Note: Please perform this operation in the same array provided and without any String methods).
 
 **[Solution](Questões/Questao1.c)**
+
 Complexity in time: O(n)
 Complexity in space: O(1)
 
@@ -18,6 +19,7 @@ partial-permutation only if:
 place
 
 **[Solution](Questões/Questao2.c)**
+
 Complexity in time: O(n)
 Complexity in space: O(1)
 
@@ -27,6 +29,7 @@ remove a character, or replace a character. Given two strings, write a function 
 check if they are one typo (or zero typos) away.
 
 **[Solution](Questões/Questao3.c)**
+
 Complexity in time: O(n)
 Complexity in space: O(1)
 
@@ -43,6 +46,7 @@ function that removes duplicated messages from the list. (Note: You only have
 access to the head node of the linked list, not the entire list.)
 
 **[Solution](Questões/Questao5.java)**
+
 Complexity in time: O(n)
 Complexity in space: O(n)
 
@@ -60,5 +64,6 @@ node of the two lists (if exists). Note that the intersection is defined by refe
 value. (No need to change the previous answer).
 
 **[Solution](Questões/Questao7.java)**
+
 Complexity in time: O(n)
 Complexity in space: O(n)
