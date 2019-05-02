@@ -7,6 +7,7 @@ Given an array of characters, write a method to replace all the spaces with “&
 **[Solution](Questões/Questao1.c)**
 
 Complexity in time: O(n)
+
 Complexity in space: O(1)
 
 ## 2. Check words with jumbled letters:
@@ -21,6 +22,7 @@ place
 **[Solution](Questões/Questao2.c)**
 
 Complexity in time: O(n)
+
 Complexity in space: O(1)
 
 ## 3. Check words with typos:
@@ -31,6 +33,7 @@ check if they are one typo (or zero typos) away.
 **[Solution](Questões/Questao3.c)**
 
 Complexity in time: O(n)
+
 Complexity in space: O(1)
 
 ## 4. [Android] Search on a list:
@@ -48,6 +51,7 @@ access to the head node of the linked list, not the entire list.)
 **[Solution](Questões/Questao5.java)**
 
 Complexity in time: O(n)
+
 Complexity in space: O(n)
 
 ## 6. [Android] Email processor service:
@@ -66,4 +70,5 @@ value. (No need to change the previous answer).
 **[Solution](Questões/Questao7.java)**
 
 Complexity in time: O(n)
+
 Complexity in space: O(n)
