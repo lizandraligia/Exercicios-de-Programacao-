@@ -5,7 +5,7 @@
 
 bool checkTypos(char s1[], char s2[]) { 
 
-	int m = strlen(s1); 
+    int m = strlen(s1); 
     int n = strlen(s2); 
     
     if((m-n) > 1){
